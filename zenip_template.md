@@ -4,16 +4,14 @@
 
 ## Header Preamble
 
-  ZenIP: Unassigned (numbers are assigned by ZenIP editors)
-  Title: *Something Short and To the Point*
-  Owners: First Owner <email>
-          ...
-  Credits: First Credited <optional email>
-           ...
-  Status: Draft
-  Category: (Consensus | Standards Track |Informational | Process)
-  Created: yyyy-mm-dd
-  License: MIT {see the [licensing section of ZenIP-42000](https://github.com/ZencashOfficial/zenips/blob/master/zenip-42000.md/#zenip-licensing)
+    ZenIP: Unassigned (numbers are assigned by ZenIP editors)
+    Title: *Something Short and To the Point*
+    Owners: First Owner <email>
+    ...
+    Status: Draft
+    Category: (Consensus | Standards Track |Informational | Process)
+    Created: yyyy-mm-dd
+    License: MIT (see the licensing section of ZenIP-42000)
 
 ## Table of Contents
 
