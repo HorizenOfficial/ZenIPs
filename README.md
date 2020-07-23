@@ -1,7 +1,7 @@
 # ZenIPs
 
 Horizen Improvement Proposals for the [Horizen Ecosystem](https://www.horizen.global).
-Participation in the Horizen project is subject to a [Code of Conduct](https://github.com/ZencashOfficial/zenips/blob/master/code_of_conduct.md).
+Participation in the Horizen project is subject to a [Code of Conduct](https://github.com/HorizenOfficial/zenips/blob/master/code_of_conduct.md).
 
 ## Motivation
 
@@ -16,7 +16,7 @@ A ZenIP in and of itself is a document that describes a new feature. It explains
 We are fairly liberal with approving ZenIPs, and try not to be too involved in decision making on behalf of the community. The exception is in very rare cases of dispute resolution when a decision is contentious and cannot be agreed upon. In those cases, the conservative option will always be preferred.
 Having a ZenIP in this repository does not make it a formally accepted standard until its status becomes Final or Active.
 
-The full specification of the ZenIP process can be found in [ZenIP-42000](https://github.com/ZencashOfficial/zenips/blob/master/zenip-42000.md).
+The full specification of the ZenIP process can be found in [ZenIP-42000](https://github.com/HorizenOfficial/zenips/blob/master/zenip-42000.md).
 
 ## License
 
