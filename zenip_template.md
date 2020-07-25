@@ -90,7 +90,7 @@ This section is entirely optional; if present, it usually gives links to PRs.
 
 ## References
 
-[1] ZenIP-42000 - https://github.com/ZencashOfficial/zenips/blob/master/zenip-42000.md/#zenip-licensing
+[1] ZenIP-42000 - https://github.com/HorizenOfficial/zenips/blob/master/zenip-42000.md/#zenip-licensing
 
 [2] RFC2119 - Key words for use in RFCs to Indicate Requirement Levels https://tools.ietf.org/html/rfc2119
 
