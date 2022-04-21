@@ -22,3 +22,4 @@ Unless otherwise stated in this repository’s individual files, the contents of
 | Number | Draft Added | Title         | Owner       | Type    | Status |
 | -----: | ----------: | ------------- | ----------- | ------- | ------ |
 | 42000  |  2019-09-27 | ZenIP Process | Jonas Rubel | Process | Draft  |
+| 42200  |  2021-08-12 | Cross-Chain Transfer Protocol | Alberto Garoffolo | Consensus | Final  |
