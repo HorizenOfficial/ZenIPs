@@ -1,4 +1,4 @@
-# ZenIP-42203
+# ZenIP
 
     ZenIP: 
     Title: HorizenDAO
