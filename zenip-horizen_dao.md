@@ -1,10 +1,10 @@
 # ZenIP-42203
 
-    ZenIP: 42203
+    ZenIP: 
     Title: HorizenDAO
     Owners: Horizen Community Council, Erica Hamilton erica@horizen.io, Dean Steinbeck dean@horizenlabs.io, Gustavo Fialho gustavo@zensystem.io 
     Status: Draft
-    Type: Consensus
+    Type: Process 
     Created: 12-15-2022
     License: MIT
 
