@@ -24,3 +24,4 @@ Unless otherwise stated in this repository’s individual files, the contents of
 | 42000  |  2019-09-27 | ZenIP Process | Jonas Rubel | Process | Draft  |
 | 42200  |  2021-08-12 | Cross-Chain Transfer Protocol | Alberto Garoffolo | Consensus | Final  |
 | 42201  |  2022-04-07 | Sidechain Versions | Paolo Tagliaferri | Consensus | Final  |
+| 42204  |  2023-01-04 | Deprecating the Mainchain Shielded Pool | Ben Pittman | Consensus | Proposed  |
