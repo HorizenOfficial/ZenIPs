@@ -21,7 +21,9 @@ Unless otherwise stated in this repository’s individual files, the contents of
 
 | Number | Draft Added | Title         | Owner       | Type    | Status |
 | -----: | ----------: | ------------- | ----------- | ------- | ------ |
-| 42000  |  2019-09-27 | ZenIP Process | Jonas Rubel | Process | Draft  |
+| 42000  |  2019-09-27 | ZenIP Process | Jonas Rubel | Process | Active  |
+| 42001  |  2023-01-04 | ZenIP Editors | Rosario Pabst | Process | Active  |
 | 42200  |  2021-08-12 | Cross-Chain Transfer Protocol | Alberto Garoffolo | Consensus | Final  |
 | 42201  |  2022-04-07 | Sidechain Versions | Paolo Tagliaferri | Consensus | Final  |
+| 42203  |  2022-12-15 | HorizenDAO | Horizen Community Council | Process | Final  |
 | 42204  |  2023-01-04 | Deprecating the Mainchain Shielded Pool | Ben Pittman | Consensus | Proposed  |
