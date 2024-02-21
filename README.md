@@ -23,7 +23,9 @@ Unless otherwise stated in this repository’s individual files, the contents of
 | -----: | ----------: | ------------- | ----------- | ------- | ------ |
 | 42000  |  2019-09-27 | ZenIP Process | Jonas Rubel | Process | Active  |
 | 42001  |  2023-01-04 | ZenIP Editors | Rosario Pabst | Process | Active  |
-| 42200  |  2021-08-12 | Cross-Chain Transfer Protocol | Alberto Garoffolo | Consensus | Final  |
-| 42201  |  2022-04-07 | Sidechain Versions | Paolo Tagliaferri | Consensus | Final  |
-| 42203  |  2022-12-15 | HorizenDAO | Horizen Community Council | Process | Final  |
-| 42204  |  2023-01-04 | Deprecating the Mainchain Shielded Pool | Ben Pittman | Consensus | Proposed  |
+| 42200  |  2021-08-12 | Cross-Chain Transfer Protocol | Alberto Garoffolo | Consensus | Active  |
+| 42201  |  2022-04-07 | Sidechain Versions | Paolo Tagliaferri | Consensus | Active  |
+| 42203  |  2022-12-15 | HorizenDAO | Horizen Community Council | Process | Active  |
+| 42204  |  2023-01-04 | Deprecating the Mainchain Shielded Pool | Ben Pittman | Consensus | Active  |
+| 42207  |  2024-01-04 | Complete Removal of Shielded Pool from the Horizen Mainchain | Consensus | Gustavo Fialho | Active | 
+| 42400  |  2024-02-07 | Modernizing Horizen Technology via a Modular Proof Verification Layer | Standard | Diego Alvarez | Final | 
